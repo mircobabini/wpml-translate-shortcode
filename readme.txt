@@ -1,4 +1,4 @@
-=== Options ===
+=== WPML Translate Shortcode ===
 Contributors: mirkolofio
 Donate link: http://mircobabini.com/donate/
 Tags: wpml, language, translate, translation, translator, shortcode, lang, theme, plugin
