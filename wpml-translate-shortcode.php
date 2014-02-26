@@ -10,9 +10,10 @@ Author URI: http://github.com/mirkolofio
 
 /**
  * Usage (via shortcode)
- * [wpml_translate lang='en']Text[/wpml_translate][wpml_translate lang='it']Testo[/wpml_translate]
- * wpml_language is an alias for wpml_translate shortcode
- * code and language are alias for lang attribute
+ * [wpml_translate lang='en']Text[/wpml_translate]
+ * [wpml_translate lang='it']Testo[/wpml_translate]
+ * ( wpml_language is an alias for wpml_translate shortcode )
+ * ( code and language are alias for lang attribute )
  *
  * Usage (via code)
  * echo wpml_text_if_language( 'en', 'Text' );
