@@ -17,7 +17,7 @@ Author URI: http://github.com/mirkolofio
  *
  * Usage (via code)
  * echo wpml_text_if_language( 'en', 'Text' );
- * echo wpml_text_if_language( 'en', 'Testo' );
+ * echo wpml_text_if_language( 'it', 'Testo' );
  *
  */
 // init shortcode and handler

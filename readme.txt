@@ -14,7 +14,7 @@ Easily translate text even if theme is not full WPML ready
 Adds the wpml_translate shortcode to your shortcode suite. You can also use the wpml_text_if_language( $lang, $content ) in your php code.
 
 = Usage (via code) =
-echo wpml_text_if_language( 'en', 'Text' ); echo wpml_text_if_language( 'en', 'Testo' );
+echo wpml_text_if_language( 'en', 'Text' ); echo wpml_text_if_language( 'it', 'Testo' );
 
 = Usage (via shortcode) =
 [wpml_translate lang='en']Text[/wpml_translate][wpml_translate lang='it']Testo[/wpml_translate]
